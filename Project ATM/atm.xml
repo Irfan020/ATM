@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\I R F A N\Documents\NetBeansProjects\Project ATM\dist\Project_ATM.jar</jar>
+  <outfile>C:\Users\I R F A N\Documents\NetBeansProjects\Project ATM\ATM.exe</outfile>
+  <errTitle>Install Java</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\I R F A N\Downloads\icon.ico</icon>
+  <singleInstance>
+    <mutexName>atm</mutexName>
+    <windowTitle>atm</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.1</fileVersion>
+    <txtFileVersion>1.20R</txtFileVersion>
+    <fileDescription>aTM PROJECT FOR SOFTWARE TESTING</fileDescription>
+    <copyright>MORSHED IRFAN</copyright>
+    <productVersion>1.0.0.1</productVersion>
+    <txtProductVersion>1.20R</txtProductVersion>
+    <productName>PersonalAccountSystem</productName>
+    <companyName>Morshed Irfan</companyName>
+    <internalName>atm</internalName>
+    <originalFilename>ATM.exe</originalFilename>
+    <trademarks>Educational</trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
